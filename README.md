@@ -1,4 +1,4 @@
 # DropDorks
-This script allows you to obtain a small list of web pages with the characteristics of the query that you enter in the input, the project is written only to extract the urls that, as a result of a request, return .sql files in their content.
+Este script te permite obtener una pequeña lista de páginas web con las características de la consulta que ingresas en el input, el proyecto está escrito solo para extraer las urls que como resultado de una solicitud devuelven archivos .sql en su contenido. .
 
-This project uses google api
+Este proyecto utiliza la API de Google.
